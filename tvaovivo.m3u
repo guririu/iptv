@@ -1,3 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="START-CHANNEL" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png" group-title="Filmes", START CHANNEL
 https://m3u9.ml/a2/hls1/starchannel/__index.m3u8?mu3zAQc9HC3GbwJq=rTRCns1tlnNTZHBHAyuW_Q&3U1G7qaTxrPbalZnEx=1688698185
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT Interior SP
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?KeltecMPIPTV
