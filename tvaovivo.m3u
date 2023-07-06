@@ -1,7 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="START-CHANNEL" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png" group-title="Filmes", START CHANNEL
 https://m3u9.ml/a2/hls1/starchannel/__index.m3u8?mu3zAQc9HC3GbwJq=rTRCns1tlnNTZHBHAyuW_Q&3U1G7qaTxrPbalZnEx=1688698185
-
-#EXTINF:-2 tvg-id="SBT" tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO",SBT Interior SP
-http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?KeltecMPIPTV
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
