@@ -1,9 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="START-CHANNEL.br" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png" group-title="Filmes", START CHANNEL
-https://server101.online/star/tracks-v1a1/mono.m3u8?remote=189.101.25.36&token=f5a34dc786ea2234822e98270f3a0c7c54d28110-d438c715cb902301b06c051a0af544ca-1688690792-1688687192
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (Portuguese)
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito (Portuguese)
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="telecine.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Telecine (Portuguese)
-https://server101.online/tc-premium/tracks-v1a1/mono.m3u8?remote=189.101.25.36&token=feaf5864f79b4f8ab703c416fd5eebf7c51779bd-2ca979f88822414c63d3bccc17beae8e-1688691047-1688687447
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
