@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="START-CHANNEL.br" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/logo-star-blanco_2a7b49de.png" group-title="Filmes", START CHANNEL
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 01
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
