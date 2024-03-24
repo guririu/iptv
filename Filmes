@@ -31,6 +31,16 @@
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" alt="SPACE">
                 </a>
             </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/hbo-family')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" alt="HBO FAMILY">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/hbo-xtreme')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" alt="HBO XTREME">
+                </a>
+            </li>
             <!-- Adicione mais vídeos conforme necessário -->
         </ul>
     </div>
