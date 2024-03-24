@@ -1,0 +1,16 @@
+<div class="category" id="infantis">
+        <h3>Infantis</h3>
+        <ul>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/gloob')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1200px-Gloob_logo.svg.png" alt="Gloob">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('link_do_video2')">
+                    <img src="thumbnail_video2.jpg" alt="Thumbnail do Vídeo 2">
+                </a>
+            </li>
+            <!-- Adicione mais vídeos conforme necessário -->
+        </ul>
+    </div>
