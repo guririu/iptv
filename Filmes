@@ -1,0 +1,36 @@
+<div class="category" id="filmes">
+        <h3>Filmes</h3>
+        <ul>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/telecine-touch')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Touch.png" alt="Telecine Touch">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/telecine-cult')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" alt="Telecine Cult">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/hbo-pop')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png" alt="HBO POP">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/hbo-2')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" alt="HBO2">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/tnt')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" alt="TNT">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/space')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png" alt="SPACE">
+                </a>
+            </li>
+            <!-- Adicione mais vídeos conforme necessário -->
+        </ul>
+    </div>
