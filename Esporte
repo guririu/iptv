@@ -1,0 +1,21 @@
+<div class="category" id="esportivos">
+        <h3>Esportivos</h3>
+        <ul>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/ufc-fight-pass-hd')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" alt="UFC Fight Pass HD">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/tnt-sports')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/800px-TNT_Sports_2021_logo.svg.png" alt="Thumbnail do Vídeo 2">
+                </a>
+            </li>
+             <li>
+                <a href="#" onclick="changeVideo('lllllllll')">
+                    <img src="llllllll" alt="Thumbnail do Vídeo 2">
+                </a>
+            </li>
+            <!-- Adicione mais vídeos conforme necessário -->
+        </ul>
+    </div>
