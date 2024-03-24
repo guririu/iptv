@@ -3,13 +3,19 @@
         <ul>
             <li>
                 <a href="#" onclick="changeVideo('https://embedflix.online/tv/globo-rio')">
-                <img src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" alt="Thumbnail do Vídeo 1">
+                <img src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" alt="Globo Rio">
                 GLOBO RIO
                 </a>
             </li>
             <li>
                 <a href="#" onclick="changeVideo('https://embedflix.online/tv/globo-minas')">
-                    <img src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" alt="Thumbnail do Vídeo 1">
+                    <img src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" alt="Globo Minas">
+                GLOBO MINAS
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://sinalpublico.cc/player3/ch.php?canal=viva')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Viva_%28UK_%26_Ireland%29_logo.svg" alt="Viva">
                 GLOBO MINAS
                 </a>
             </li>
