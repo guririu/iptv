@@ -8,9 +8,9 @@
                 </a>
             </li>
             <li>
-                <a href="#" onclick="changeVideo('link_do_video2')">
-                    <img src="thumbnail_video2.jpg" alt="Thumbnail do Vídeo 2">
-                    Vídeo 2
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/globo-minas')">
+                    <img src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" alt="Thumbnail do Vídeo 1">
+                GLOBO MINAS
                 </a>
             </li>
             <!-- Adicione mais vídeos conforme necessário -->
