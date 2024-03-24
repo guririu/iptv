@@ -1,0 +1,36 @@
+<div class="category" id="documentarios">
+        <h3>Documentários</h3>
+        <ul>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/animal-planet')">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" alt="Animal Planet">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/investigacao-discovery')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" alt="ID Discovery">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/discovery-turbo')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" alt="Discovery Turbo">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/discovery-world')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png" alt="Discovery World">
+                </a>
+            </li>
+           <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/national-geographic')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/National_Geographic_Society_logo.svg" alt="National Geographic">
+                </a>
+            </li>
+           <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/national-geographic')">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/National_Geographic_Society_logo.svg" alt="National Geographic">
+                </a>
+            </li>
+            <!-- Adicione mais vídeos conforme necessário -->
+        </ul>
+    </div>
