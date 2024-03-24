@@ -1,0 +1,17 @@
+<div class="category" id="canaisAbertos">
+        <h3>Canais Abertos</h3>
+        <ul>
+            <li>
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/hbo-2')">
+                <img src="https://cdn.icon-icons.com/icons2/3912/PNG/512/hbo_logo_icon_248105.png" alt="Thumbnail do Vídeo 1">
+                </a>
+            </li>
+            <li>
+                <a href="#" onclick="changeVideo('link_do_video2')">
+                    <img src="thumbnail_video2.jpg" alt="Thumbnail do Vídeo 2">
+                    Vídeo 2
+                </a>
+            </li>
+            <!-- Adicione mais vídeos conforme necessário -->
+        </ul>
+    </div>
