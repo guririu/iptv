@@ -2,8 +2,9 @@
         <h3>Canais Abertos</h3>
         <ul>
             <li>
-                <a href="#" onclick="changeVideo('https://embedflix.online/tv/hbo-2')">
-                <img src="https://cdn.icon-icons.com/icons2/3912/PNG/512/hbo_logo_icon_248105.png" alt="Thumbnail do Vídeo 1">
+                <a href="#" onclick="changeVideo('https://embedflix.online/tv/globo-rio')">
+                <img src="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" alt="Thumbnail do Vídeo 1">
+                GLOBO RIO
                 </a>
             </li>
             <li>
