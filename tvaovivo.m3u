@@ -30,7 +30,13 @@ https://reidoscanais.vip/embed/?id=globoce-tvverdesmarescariri
 https://reidoscanais.vip/embed/?id=globomg-globominas
 
 ########### Canais Abertos ###########
-#EXTINF:-1 tvg-id="band" tvg-name="Band" group-title="Canais Abertos",Band
+#EXTINF:-1 tvg-id="band" tvg-name="Band (embedtv)" group-title="Canais Abertos",Band
+https://embedtv-2.icu/band
+
+#EXTINF:-1 tvg-id="aparecida" tvg-name="TV Aparecida" group-title="Canais Abertos",TV Aparecida
+https://embedtv-2.icu/aparecida
+
+#EXTINF:-1 tvg-id="band-reidoscanais" tvg-name="Band" group-title="Canais Abertos",Band (reidoscanais)
 https://reidoscanais.vip/embed/?id=band
 
 #EXTINF:-1 tvg-id="record" tvg-name="Record" group-title="Canais Abertos",Record
@@ -57,3 +63,14 @@ https://reidoscanais.vip/embed/?id=cnnbrasil
 
 #EXTINF:-1 tvg-id="globonews" tvg-name="GloboNews" group-title="Notícias",GloboNews
 https://reidoscanais.vip/embed/?id=globonews
+
+########### Documentários ###########
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" group-title="Documentários",Animal Planet
+https://embedtv-2.icu/animalplanet
+
+########### Entretenimento ###########
+#EXTINF:-1 tvg-id="adultswim" tvg-name="Adult Swim" group-title="Entretenimento",Adult Swim
+https://embedtv-2.icu/adultswim
+
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Entretenimento",AXN
+https://embedtv-2.icu/axn
