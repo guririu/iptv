@@ -1,0 +1,40 @@
+#EXTM3U
+
+########## TV ABERTA BR ##########
+#EXTINF:-1 group-title="TV Aberta BR",Globo SP
+http://95.211.149.215:8081/look/sptv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Aberta BR",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Aberta BR",Record SP
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+
+########## NOTICIAS ##########
+#EXTINF:-1 group-title="Noticias",Globo News
+http://5.79.68.138:8081/look/globonews/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",Band News
+http://5.79.68.138:8081/look/bandnews/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
+
+########## FILMES ##########
+#EXTINF:-1 group-title="Filmes",24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+
+#EXTINF:-1 group-title="Filmes",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+########## ESPORTES ##########
+#EXTINF:-1 group-title="Esportes",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+########## INFANTIL ##########
+#EXTINF:-1 group-title="Infantil",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+########## RELIGIOSO ##########
+#EXTINF:-1 group-title="Religioso",3ABN English
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
