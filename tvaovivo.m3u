@@ -1,220 +1,269 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/adultswim.png" group-title="Adulto",adultswim
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/adultswim.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/espn.png" group-title="Esportes",espn
+########## ⚽ ESPORTES ##########
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://cdn.faz-o-eli.online/preview/espn.png" group-title="⚽ Esportes",ESPN HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/espn2.png" group-title="Esportes",espn2
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/espn2.png" group-title="⚽ Esportes",ESPN2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/espn4.png" group-title="Esportes",espn4
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/espn3.png" group-title="⚽ Esportes",ESPN3 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn3.m3u8
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN4 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/espn4.png" group-title="⚽ Esportes",ESPN4 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/espn5.png" group-title="Esportes",espn5
+#EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN5 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/espn5.png" group-title="⚽ Esportes",ESPN5 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn5.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/premiere6.png" group-title="Esportes",premiere6
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/premiere8.png" group-title="Esportes",premiere8
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere8.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv3.png" group-title="Esportes",pt_sportv3
+#EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN6 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/espn6.png" group-title="⚽ Esportes",ESPN6 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn6.m3u8
+#EXTINF:-1 tvg-id="pt_sportv1.br" tvg-name="PT_SPORTV1 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv1.png" group-title="⚽ Esportes",PT_SPORTV1 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv1.m3u8
+#EXTINF:-1 tvg-id="pt_sportv2.br" tvg-name="PT_SPORTV2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv2.png" group-title="⚽ Esportes",PT_SPORTV2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv2.m3u8
+#EXTINF:-1 tvg-id="pt_sportv3.br" tvg-name="PT_SPORTV3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv3.png" group-title="⚽ Esportes",PT_SPORTV3 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv4.png" group-title="Esportes",pt_sportv4
+#EXTINF:-1 tvg-id="pt_sportv4.br" tvg-name="PT_SPORTV4 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv4.png" group-title="⚽ Esportes",PT_SPORTV4 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv5.png" group-title="Esportes",pt_sportv5
+#EXTINF:-1 tvg-id="pt_sportv5.br" tvg-name="PT_SPORTV5 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv5.png" group-title="⚽ Esportes",PT_SPORTV5 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv6.png" group-title="Esportes",pt_sportv6
+#EXTINF:-1 tvg-id="pt_sportv6.br" tvg-name="PT_SPORTV6 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv6.png" group-title="⚽ Esportes",PT_SPORTV6 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv7.png" group-title="Esportes",pt_sportv7
+#EXTINF:-1 tvg-id="pt_sportv7.br" tvg-name="PT_SPORTV7 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_sportv7.png" group-title="⚽ Esportes",PT_SPORTV7 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sportv.png" group-title="Esportes",sportv
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sportv.png" group-title="⚽ Esportes",SPORTV HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sportv3.png" group-title="Esportes",sportv3
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sportv2.png" group-title="⚽ Esportes",SPORTV2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv2.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sportv3.png" group-title="⚽ Esportes",SPORTV3 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sportv4.png" group-title="Esportes",sportv4
+#EXTINF:-1 tvg-id="sportv4.br" tvg-name="SPORTV4 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sportv4.png" group-title="⚽ Esportes",SPORTV4 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/ufcfightpass.png" group-title="Esportes",ufcfightpass
+#EXTINF:-1 tvg-id="ufcfightpass.br" tvg-name="UFCFIGHTPASS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/ufcfightpass.png" group-title="⚽ Esportes",UFCFIGHTPASS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/ufcfightpass.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/cinemax.png" group-title="Filmes",cinemax
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/hbo.png" group-title="Filmes",hbo
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/hbofamily.png" group-title="Filmes",hbofamily
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/hbopop.png" group-title="Filmes",hbopop
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbopop.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/telecineaction.png" group-title="Filmes",telecineaction
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecineaction.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/telecinecult.png" group-title="Filmes",telecinecult
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinecult.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/telecinepipoca.png" group-title="Filmes",telecinepipoca
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinepipoca.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/telecinepremium.png" group-title="Filmes",telecinepremium
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinepremium.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/telecinetouch.png" group-title="Filmes",telecinetouch
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinetouch.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/cartoonito.png" group-title="Infantil",cartoonito
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cartoonito.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/cartoonnetwork.png" group-title="Infantil",cartoonnetwork
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoverykids.png" group-title="Infantil",discoverykids
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoverykids.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/disneyplus1.png" group-title="Infantil",disneyplus1
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/disneyplus1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/disneyplus2.png" group-title="Infantil",disneyplus2
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/disneyplus2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/disneyplus3.png" group-title="Infantil",disneyplus3
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/disneyplus3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/mtv.png" group-title="Música",mtv
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/mtv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/cnnbrasil.png" group-title="Notícias",cnnbrasil
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cnnbrasil.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/bandnews.png" group-title="TV Aberta",bandnews
+#EXTINF:-1 tvg-id="xsports.br" tvg-name="XSPORTS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/xsports.png" group-title="⚽ Esportes",XSPORTS HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/xsports.m3u8
+
+########## 🇧🇷 TV ABERTA ##########
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BANDNEWS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/bandnews.png" group-title="🇧🇷 TV Aberta",BANDNEWS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandnews.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/bandrj.png" group-title="TV Aberta",bandrj
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BANDRJ HD" tvg-logo="https://cdn.faz-o-eli.online/preview/bandrj.png" group-title="🇧🇷 TV Aberta",BANDRJ HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandrj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/bandsp.png" group-title="TV Aberta",bandsp
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="BANDSP HD" tvg-logo="https://cdn.faz-o-eli.online/preview/bandsp.png" group-title="🇧🇷 TV Aberta",BANDSP HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandsp.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/bandsports.png" group-title="TV Aberta",bandsports
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BANDSPORTS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/bandsports.png" group-title="🇧🇷 TV Aberta",BANDSPORTS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandsports.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globoam.png" group-title="TV Aberta",globoam
+#EXTINF:-1 tvg-id="globoam.br" tvg-name="GLOBOAM HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globoam.png" group-title="🇧🇷 TV Aberta",GLOBOAM HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globoam.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globoce.png" group-title="TV Aberta",globoce
+#EXTINF:-1 tvg-id="globoce.br" tvg-name="GLOBOCE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globoce.png" group-title="🇧🇷 TV Aberta",GLOBOCE HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globoce.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globoes.png" group-title="TV Aberta",globoes
+#EXTINF:-1 tvg-id="globoes.br" tvg-name="GLOBOES HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globoes.png" group-title="🇧🇷 TV Aberta",GLOBOES HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globoes.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globomg.png" group-title="TV Aberta",globomg
+#EXTINF:-1 tvg-id="globomg.br" tvg-name="GLOBOMG HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globomg.png" group-title="🇧🇷 TV Aberta",GLOBOMG HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globomg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globonews.png" group-title="TV Aberta",globonews
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBONEWS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globonews.png" group-title="🇧🇷 TV Aberta",GLOBONEWS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globonews.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globonovelas.png" group-title="TV Aberta",globonovelas
+#EXTINF:-1 tvg-id="globonovelas.br" tvg-name="GLOBONOVELAS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globonovelas.png" group-title="🇧🇷 TV Aberta",GLOBONOVELAS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globonovelas.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globopb.png" group-title="TV Aberta",globopb
+#EXTINF:-1 tvg-id="globopb.br" tvg-name="GLOBOPB HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globopb.png" group-title="🇧🇷 TV Aberta",GLOBOPB HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globopb.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globope.png" group-title="TV Aberta",globope
+#EXTINF:-1 tvg-id="globope.br" tvg-name="GLOBOPE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globope.png" group-title="🇧🇷 TV Aberta",GLOBOPE HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globope.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globorj.png" group-title="TV Aberta",globorj
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBORJ HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globorj.png" group-title="🇧🇷 TV Aberta",GLOBORJ HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globorj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globors.png" group-title="TV Aberta",globors
+#EXTINF:-1 tvg-id="globors.br" tvg-name="GLOBORS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globors.png" group-title="🇧🇷 TV Aberta",GLOBORS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globors.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/globosp.png" group-title="TV Aberta",globosp
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBOSP HD" tvg-logo="https://cdn.faz-o-eli.online/preview/globosp.png" group-title="🇧🇷 TV Aberta",GLOBOSP HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globosp.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/recordmg.png" group-title="TV Aberta",recordmg
+#EXTINF:-1 tvg-id="recordmg.br" tvg-name="RECORDMG HD" tvg-logo="https://cdn.faz-o-eli.online/preview/recordmg.png" group-title="🇧🇷 TV Aberta",RECORDMG HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordmg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/recordrj.png" group-title="TV Aberta",recordrj
+#EXTINF:-1 tvg-id="recordrj.br" tvg-name="RECORDRJ HD" tvg-logo="https://cdn.faz-o-eli.online/preview/recordrj.png" group-title="🇧🇷 TV Aberta",RECORDRJ HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordrj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/recordsp.png" group-title="TV Aberta",recordsp
+#EXTINF:-1 tvg-id="recordsp.br" tvg-name="RECORDSP HD" tvg-logo="https://cdn.faz-o-eli.online/preview/recordsp.png" group-title="🇧🇷 TV Aberta",RECORDSP HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordsp.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sbtrj.png" group-title="TV Aberta",sbtrj
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBTRJ HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sbtrj.png" group-title="🇧🇷 TV Aberta",SBTRJ HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sbtrj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sbtsp.png" group-title="TV Aberta",sbtsp
+#EXTINF:-1 tvg-id="sbtsp.br" tvg-name="SBTSP HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sbtsp.png" group-title="🇧🇷 TV Aberta",SBTSP HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sbtsp.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/24h_chaves.png" group-title="Variedades",24h_chaves
+
+########## 🎬 FILMES ##########
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://cdn.faz-o-eli.online/preview/cinemax.png" group-title="🎬 Filmes",CINEMAX HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cinemax.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hbo.png" group-title="🎬 Filmes",HBO HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbo.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hbo2.png" group-title="🎬 Filmes",HBO2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbo2.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBOFAMILY HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hbofamily.png" group-title="🎬 Filmes",HBOFAMILY HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbofamily.m3u8
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBOMUNDI HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hbomundi.png" group-title="🎬 Filmes",HBOMUNDI HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbomundi.m3u8
+#EXTINF:-1 tvg-id="hboplus.br" tvg-name="HBOPLUS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hboplus.png" group-title="🎬 Filmes",HBOPLUS HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hboplus.m3u8
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBOPOP HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hbopop.png" group-title="🎬 Filmes",HBOPOP HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hbopop.m3u8
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBOXTREME HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hboxtreme.png" group-title="🎬 Filmes",HBOXTREME HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hboxtreme.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://cdn.faz-o-eli.online/preview/megapix.png" group-title="🎬 Filmes",MEGAPIX HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/megapix.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINEACTION HD" tvg-logo="https://cdn.faz-o-eli.online/preview/telecineaction.png" group-title="🎬 Filmes",TELECINEACTION HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecineaction.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINECULT HD" tvg-logo="https://cdn.faz-o-eli.online/preview/telecinecult.png" group-title="🎬 Filmes",TELECINECULT HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinecult.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINEFUN HD" tvg-logo="https://cdn.faz-o-eli.online/preview/telecinefun.png" group-title="🎬 Filmes",TELECINEFUN HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinefun.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINEPIPOCA HD" tvg-logo="https://cdn.faz-o-eli.online/preview/telecinepipoca.png" group-title="🎬 Filmes",TELECINEPIPOCA HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinepipoca.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINEPREMIUM HD" tvg-logo="https://cdn.faz-o-eli.online/preview/telecinepremium.png" group-title="🎬 Filmes",TELECINEPREMIUM HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinepremium.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINETOUCH HD" tvg-logo="https://cdn.faz-o-eli.online/preview/telecinetouch.png" group-title="🎬 Filmes",TELECINETOUCH HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/telecinetouch.m3u8
+
+########## 🎵 MÚSICA ##########
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://cdn.faz-o-eli.online/preview/mtv.png" group-title="🎵 Música",MTV HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/mtv.m3u8
+
+########## 📰 NOTÍCIAS ##########
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNNBRASIL HD" tvg-logo="https://cdn.faz-o-eli.online/preview/cnnbrasil.png" group-title="📰 Notícias",CNNBRASIL HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cnnbrasil.m3u8
+
+########## 📺 VARIEDADES ##########
+#EXTINF:-1 tvg-id="24h_chaves.br" tvg-name="24H_CHAVES HD" tvg-logo="https://cdn.faz-o-eli.online/preview/24h_chaves.png" group-title="📺 Variedades",24H_CHAVES HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_chaves.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/24h_dragonball.png" group-title="Variedades",24h_dragonball
+#EXTINF:-1 tvg-id="24h_dragonball.br" tvg-name="24H_DRAGONBALL HD" tvg-logo="https://cdn.faz-o-eli.online/preview/24h_dragonball.png" group-title="📺 Variedades",24H_DRAGONBALL HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_dragonball.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/24h_naruto.png" group-title="Variedades",24h_naruto
+#EXTINF:-1 tvg-id="24h_naruto.br" tvg-name="24H_NARUTO HD" tvg-logo="https://cdn.faz-o-eli.online/preview/24h_naruto.png" group-title="📺 Variedades",24H_NARUTO HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_naruto.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/24h_odeiachris.png" group-title="Variedades",24h_odeiachris
+#EXTINF:-1 tvg-id="24h_odeiachris.br" tvg-name="24H_ODEIACHRIS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/24h_odeiachris.png" group-title="📺 Variedades",24H_ODEIACHRIS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/24h_simpsons.png" group-title="Variedades",24h_simpsons
+#EXTINF:-1 tvg-id="24h_simpsons.br" tvg-name="24H_SIMPSONS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/24h_simpsons.png" group-title="📺 Variedades",24H_SIMPSONS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/24h_simpsons.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/ae.png" group-title="Variedades",ae
+#EXTINF:-1 tvg-id="adultswim.br" tvg-name="ADULTSWIM HD" tvg-logo="https://cdn.faz-o-eli.online/preview/adultswim.png" group-title="📺 Variedades",ADULTSWIM HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/adultswim.m3u8
+#EXTINF:-1 tvg-id="ae.br" tvg-name="AE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/ae.png" group-title="📺 Variedades",AE HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/ae.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/amc.png" group-title="Variedades",amc
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://cdn.faz-o-eli.online/preview/amc.png" group-title="📺 Variedades",AMC HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/amc.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/animalplanet.png" group-title="Variedades",animalplanet
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMALPLANET HD" tvg-logo="https://cdn.faz-o-eli.online/preview/animalplanet.png" group-title="📺 Variedades",ANIMALPLANET HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/animalplanet.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/aparecida.png" group-title="Variedades",aparecida
+#EXTINF:-1 tvg-id="aparecida.br" tvg-name="APARECIDA HD" tvg-logo="https://cdn.faz-o-eli.online/preview/aparecida.png" group-title="📺 Variedades",APARECIDA HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/aparecida.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/axn.png" group-title="Variedades",axn
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://cdn.faz-o-eli.online/preview/axn.png" group-title="📺 Variedades",AXN HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/axn.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/caze1.png" group-title="Variedades",caze1
+#EXTINF:-1 tvg-id="caze1.br" tvg-name="CAZE1 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/caze1.png" group-title="📺 Variedades",CAZE1 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/caze1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/caze2.png" group-title="Variedades",caze2
+#EXTINF:-1 tvg-id="caze2.br" tvg-name="CAZE2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/caze2.png" group-title="📺 Variedades",CAZE2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/caze2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/combate.png" group-title="Variedades",combate
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/combate.png" group-title="📺 Variedades",COMBATE HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/combate.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/cultura.png" group-title="Variedades",cultura
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="CULTURA HD" tvg-logo="https://cdn.faz-o-eli.online/preview/cultura.png" group-title="📺 Variedades",CULTURA HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cultura.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoverychannel.png" group-title="Variedades",discoverychannel
+#EXTINF:-1 tvg-id="discoverychannel.br" tvg-name="DISCOVERYCHANNEL HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoverychannel.png" group-title="📺 Variedades",DISCOVERYCHANNEL HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoverychannel.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryhh.png" group-title="Variedades",discoveryhh
+#EXTINF:-1 tvg-id="discoveryhh.br" tvg-name="DISCOVERYHH HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryhh.png" group-title="📺 Variedades",DISCOVERYHH HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoveryhh.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryid.png" group-title="Variedades",discoveryid
+#EXTINF:-1 tvg-id="discoveryid.br" tvg-name="DISCOVERYID HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryid.png" group-title="📺 Variedades",DISCOVERYID HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoveryid.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryscience.png" group-title="Variedades",discoveryscience
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERYSCIENCE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryscience.png" group-title="📺 Variedades",DISCOVERYSCIENCE HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoveryscience.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoverytheather.png" group-title="Variedades",discoverytheather
+#EXTINF:-1 tvg-id="discoverytheather.br" tvg-name="DISCOVERYTHEATHER HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoverytheather.png" group-title="📺 Variedades",DISCOVERYTHEATHER HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoverytheather.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryturbo.png" group-title="Variedades",discoveryturbo
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERYTURBO HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryturbo.png" group-title="📺 Variedades",DISCOVERYTURBO HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoveryturbo.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryworld.png" group-title="Variedades",discoveryworld
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERYWORLD HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoveryworld.png" group-title="📺 Variedades",DISCOVERYWORLD HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoveryworld.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/foodnetwork.png" group-title="Variedades",foodnetwork
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOODNETWORK HD" tvg-logo="https://cdn.faz-o-eli.online/preview/foodnetwork.png" group-title="📺 Variedades",FOODNETWORK HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/foodnetwork.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/gloob.png" group-title="Variedades",gloob
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://cdn.faz-o-eli.online/preview/gloob.png" group-title="📺 Variedades",GLOOB HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/gloob.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/gnt.png" group-title="Variedades",gnt
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://cdn.faz-o-eli.online/preview/gnt.png" group-title="📺 Variedades",GNT HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/gnt.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/hgtv.png" group-title="Variedades",hgtv
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://cdn.faz-o-eli.online/preview/hgtv.png" group-title="📺 Variedades",HGTV HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/hgtv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/history.png" group-title="Variedades",history
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY HD" tvg-logo="https://cdn.faz-o-eli.online/preview/history.png" group-title="📺 Variedades",HISTORY HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/history.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/history2.png" group-title="Variedades",history2
+#EXTINF:-1 tvg-id="history2.br" tvg-name="HISTORY2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/history2.png" group-title="📺 Variedades",HISTORY2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/history2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/max1.png" group-title="Variedades",max1
+#EXTINF:-1 tvg-id="max1.br" tvg-name="MAX1 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/max1.png" group-title="📺 Variedades",MAX1 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/max1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/max2.png" group-title="Variedades",max2
+#EXTINF:-1 tvg-id="max2.br" tvg-name="MAX2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/max2.png" group-title="📺 Variedades",MAX2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/max2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/max3.png" group-title="Variedades",max3
+#EXTINF:-1 tvg-id="max3.br" tvg-name="MAX3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/max3.png" group-title="📺 Variedades",MAX3 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/max3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/multishow.png" group-title="Variedades",multishow
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://cdn.faz-o-eli.online/preview/multishow.png" group-title="📺 Variedades",MULTISHOW HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/multishow.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/off.png" group-title="Variedades",off
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://cdn.faz-o-eli.online/preview/off.png" group-title="📺 Variedades",OFF HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/off.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/paramountplus.png" group-title="Variedades",paramountplus
+#EXTINF:-1 tvg-id="paramountplus.br" tvg-name="PARAMOUNTPLUS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/paramountplus.png" group-title="📺 Variedades",PARAMOUNTPLUS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/paramountplus.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/paramountplus2.png" group-title="Variedades",paramountplus2
+#EXTINF:-1 tvg-id="paramountplus2.br" tvg-name="PARAMOUNTPLUS2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/paramountplus2.png" group-title="📺 Variedades",PARAMOUNTPLUS2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/paramountplus2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/playboy.png" group-title="Variedades",playboy
+#EXTINF:-1 tvg-id="playboy.br" tvg-name="PLAYBOY HD" tvg-logo="https://cdn.faz-o-eli.online/preview/playboy.png" group-title="📺 Variedades",PLAYBOY HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/playboy.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo.png" group-title="Variedades",primevideo
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="PREMIERE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere.png" group-title="📺 Variedades",PREMIERE HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere2.png" group-title="📺 Variedades",PREMIERE2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere2.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere3.png" group-title="📺 Variedades",PREMIERE3 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere3.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE4 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere4.png" group-title="📺 Variedades",PREMIERE4 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere4.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE5 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere5.png" group-title="📺 Variedades",PREMIERE5 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere5.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE6 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere6.png" group-title="📺 Variedades",PREMIERE6 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere6.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE7 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere7.png" group-title="📺 Variedades",PREMIERE7 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere7.m3u8
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="PREMIERE8 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/premiere8.png" group-title="📺 Variedades",PREMIERE8 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere8.m3u8
+#EXTINF:-1 tvg-id="primevideo.br" tvg-name="PRIMEVIDEO HD" tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo.png" group-title="📺 Variedades",PRIMEVIDEO HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo2.png" group-title="Variedades",primevideo2
+#EXTINF:-1 tvg-id="primevideo2.br" tvg-name="PRIMEVIDEO2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo2.png" group-title="📺 Variedades",PRIMEVIDEO2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo3.png" group-title="Variedades",primevideo3
+#EXTINF:-1 tvg-id="primevideo3.br" tvg-name="PRIMEVIDEO3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo3.png" group-title="📺 Variedades",PRIMEVIDEO3 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo4.png" group-title="Variedades",primevideo4
+#EXTINF:-1 tvg-id="primevideo4.br" tvg-name="PRIMEVIDEO4 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/primevideo4.png" group-title="📺 Variedades",PRIMEVIDEO4 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo4.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_abola.png" group-title="Variedades",pt_abola
+#EXTINF:-1 tvg-id="pt_abola.br" tvg-name="PT_ABOLA HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_abola.png" group-title="📺 Variedades",PT_ABOLA HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_abola.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_benficatv.png" group-title="Variedades",pt_benficatv
+#EXTINF:-1 tvg-id="pt_benficatv.br" tvg-name="PT_BENFICATV HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_benficatv.png" group-title="📺 Variedades",PT_BENFICATV HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_benficatv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_canal11.png" group-title="Variedades",pt_canal11
+#EXTINF:-1 tvg-id="pt_canal11.br" tvg-name="PT_CANAL11 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_canal11.png" group-title="📺 Variedades",PT_CANAL11 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_canal11.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_eleven1.png" group-title="Variedades",pt_eleven1
+#EXTINF:-1 tvg-id="pt_eleven1.br" tvg-name="PT_ELEVEN1 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_eleven1.png" group-title="📺 Variedades",PT_ELEVEN1 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_eleven1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_eleven2.png" group-title="Variedades",pt_eleven2
+#EXTINF:-1 tvg-id="pt_eleven2.br" tvg-name="PT_ELEVEN2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_eleven2.png" group-title="📺 Variedades",PT_ELEVEN2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_eleven2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/pt_eleven3.png" group-title="Variedades",pt_eleven3
+#EXTINF:-1 tvg-id="pt_eleven3.br" tvg-name="PT_ELEVEN3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/pt_eleven3.png" group-title="📺 Variedades",PT_ELEVEN3 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_eleven3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sexyhot.png" group-title="Variedades",sexyhot
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="SEXYHOT HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sexyhot.png" group-title="📺 Variedades",SEXYHOT HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sexyhot.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/sonychannel.png" group-title="Variedades",sonychannel
+#EXTINF:-1 tvg-id="sonychannel.br" tvg-name="SONYCHANNEL HD" tvg-logo="https://cdn.faz-o-eli.online/preview/sonychannel.png" group-title="📺 Variedades",SONYCHANNEL HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sonychannel.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/space.png" group-title="Variedades",space
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://cdn.faz-o-eli.online/preview/space.png" group-title="📺 Variedades",SPACE HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/space.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/studiouniversal.png" group-title="Variedades",studiouniversal
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIOUNIVERSAL HD" tvg-logo="https://cdn.faz-o-eli.online/preview/studiouniversal.png" group-title="📺 Variedades",STUDIOUNIVERSAL HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/studiouniversal.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/tcm.png" group-title="Variedades",tcm
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://cdn.faz-o-eli.online/preview/tcm.png" group-title="📺 Variedades",TCM HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/tcm.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/tlc.png" group-title="Variedades",tlc
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://cdn.faz-o-eli.online/preview/tlc.png" group-title="📺 Variedades",TLC HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/tlc.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/tnt.png" group-title="Variedades",tnt
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://cdn.faz-o-eli.online/preview/tnt.png" group-title="📺 Variedades",TNT HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/tnt.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/tntnovelas.png" group-title="Variedades",tntnovelas
+#EXTINF:-1 tvg-id="tntnovelas.br" tvg-name="TNTNOVELAS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/tntnovelas.png" group-title="📺 Variedades",TNTNOVELAS HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/tntnovelas.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/tntseries.png" group-title="Variedades",tntseries
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNTSERIES HD" tvg-logo="https://cdn.faz-o-eli.online/preview/tntseries.png" group-title="📺 Variedades",TNTSERIES HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/tntseries.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/universaltv.png" group-title="Variedades",universaltv
+#EXTINF:-1 tvg-id="universaltv.br" tvg-name="UNIVERSALTV HD" tvg-logo="https://cdn.faz-o-eli.online/preview/universaltv.png" group-title="📺 Variedades",UNIVERSALTV HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/universaltv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.faz-o-eli.online/preview/warnerchannel.png" group-title="Variedades",warnerchannel
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNERCHANNEL HD" tvg-logo="https://cdn.faz-o-eli.online/preview/warnerchannel.png" group-title="📺 Variedades",WARNERCHANNEL HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/warnerchannel.m3u8
+
+########## 🧒 INFANTIL ##########
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://cdn.faz-o-eli.online/preview/cartoonito.png" group-title="🧒 Infantil",CARTOONITO HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cartoonito.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOONNETWORK HD" tvg-logo="https://cdn.faz-o-eli.online/preview/cartoonnetwork.png" group-title="🧒 Infantil",CARTOONNETWORK HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERYKIDS HD" tvg-logo="https://cdn.faz-o-eli.online/preview/discoverykids.png" group-title="🧒 Infantil",DISCOVERYKIDS HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/discoverykids.m3u8
+#EXTINF:-1 tvg-id="disneyplus1.br" tvg-name="DISNEYPLUS1 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/disneyplus1.png" group-title="🧒 Infantil",DISNEYPLUS1 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/disneyplus1.m3u8
+#EXTINF:-1 tvg-id="disneyplus2.br" tvg-name="DISNEYPLUS2 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/disneyplus2.png" group-title="🧒 Infantil",DISNEYPLUS2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/disneyplus2.m3u8
+#EXTINF:-1 tvg-id="disneyplus3.br" tvg-name="DISNEYPLUS3 HD" tvg-logo="https://cdn.faz-o-eli.online/preview/disneyplus3.png" group-title="🧒 Infantil",DISNEYPLUS3 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/disneyplus3.m3u8
