@@ -1,100 +1,138 @@
 #EXTM3U
 
 ########## ⚽ ESPORTES ##########
-#EXTINF:-1 group-title="⚽ Esportes",ESPN HD
+
+# ESPN
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Esportes",ESPN HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN2 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN3 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN4 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn4.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN5 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn5.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN6 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn6.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV1 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv1.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV2 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV3 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV4 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv4.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV5 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV6 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV7 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV2 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV3 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV4 HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv4.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",UFCFIGHTPASS HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/ufcfightpass.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",XSPORTS HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/xsports.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN HD
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/espn.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN2 HD
+
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Esportes",ESPN 2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn2.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/espn2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN3 HD
+
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Esportes",ESPN 3 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn3.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/espn3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN4 HD
+
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Esportes",ESPN 4 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn4.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/espn4.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN5 HD
+
+#EXTINF:-1 tvg-id="espn5.br" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Esportes",ESPN 5 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn5.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/espn5.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",ESPN6 HD
+
+#EXTINF:-1 tvg-id="espn6.br" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="⚽ Esportes",ESPN 6 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/espn6.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/espn6.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV1 HD
+
+
+# SporTV
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 1 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv1.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv1.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV2 HD
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv2.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV3 HD
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 3 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv3.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV4 HD
+
+#EXTINF:-1 tvg-id="sportv4.br" tvg-name="SporTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 4 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv4.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv4.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PT_SPORTV5 HD
+
+#EXTINF:-1 tvg-id="sportv5.br" tvg-name="SporTV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 5 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv5.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV HD
+
+#EXTINF:-1 tvg-id="sportv6.br" tvg-name="SporTV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 6 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv6.m3u8
+
+#EXTINF:-1 tvg-id="sportv7.br" tvg-name="SporTV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 7 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/pt_sportv7.m3u8
+
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/sportv.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV2 HD
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 2 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv2.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/sportv2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",SPORTV3 HD
+
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 3 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv3.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/sportv3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",UFCFIGHTPASS HD
+
+#EXTINF:-1 tvg-id="sportv4.br" tvg-name="SporTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/SporTV_logo_2021.png" group-title="⚽ Esportes",SporTV 4 HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sportv4.m3u8
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/sportv4.m3u8
+
+# UFC
+#EXTINF:-1 tvg-name="UFC Fight Pass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Fight_Pass_Logo.svg" group-title="⚽ Esportes",UFC Fight Pass HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/ufcfightpass.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/ufcfightpass.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",XSPORTS HD
+
+#EXTINF:-1 tvg-name="XSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/X_Sports_logo.png" group-title="⚽ Esportes",XSports HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/xsports.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/xsports.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE HD
+
+
+# Premiere
+#EXTINF:-1 tvg-id="premiere.br" tvg-name="Premiere 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 1 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE2 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere.m3u8
+
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 2 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE3 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere2.m3u8
+
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 3 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE4 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere3.m3u8
+
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 4 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere4.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE5 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere4.m3u8
+
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 5 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere5.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE6 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere5.m3u8
+
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 6 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere6.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE7 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere6.m3u8
+
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 7 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere7.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PREMIERE8 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere7.m3u8
+
+#EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Premiere_FC_logo.png" group-title="⚽ Esportes",Premiere 8 HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/premiere8.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PRIMEVIDEO HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/premiere8.m3u8
+
+
+# Prime Video
+#EXTINF:-1 tvg-name="Prime Video 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="⚽ Esportes",Prime Video 1
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PRIMEVIDEO2 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/primevideo.m3u8
+
+#EXTINF:-1 tvg-name="Prime Video 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="⚽ Esportes",Prime Video 2
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo2.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PRIMEVIDEO3 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/primevideo2.m3u8
+
+#EXTINF:-1 tvg-name="Prime Video 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="⚽ Esportes",Prime Video 3
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo3.m3u8
-#EXTINF:-1 group-title="⚽ Esportes",PRIMEVIDEO4 HD
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/primevideo3.m3u8
+
+#EXTINF:-1 tvg-name="Prime Video 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="⚽ Esportes",Prime Video 4
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo4.m3u8
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/primevideo4.m3u8
 
 ########## 🇧🇷 TV ABERTA ##########
 #EXTINF:-1 group-title="🇧🇷 TV Aberta",BANDNEWS HD
