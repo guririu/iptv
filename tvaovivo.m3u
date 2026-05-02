@@ -169,62 +169,74 @@ https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/primevideo4.m3u8
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/primevideo4.m3u8
 
 ########## 🇧🇷 TV ABERTA ##########
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",BANDNEWS HD
+
+# BANDNEWS
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_TV_logo.png" group-title="🇧🇷 TV Aberta",BandNews HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandnews.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",BANDRJ HD
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",BandNews HD ALT
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/bandnews.m3u8
+
+# BAND RJ
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Band_logo_2018.png" group-title="🇧🇷 TV Aberta",Band RJ HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandrj.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",BANDSP HD
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",Band RJ HD ALT
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/bandrj.m3u8
+
+# BAND SP
+#EXTINF:-1 tvg-id="bandsp.br" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Band_logo_2018.png" group-title="🇧🇷 TV Aberta",Band SP HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandsp.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",BANDSPORTS HD
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",Band SP HD ALT
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/bandsp.m3u8
+
+# BANDSPORTS
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/BandSports_logo.png" group-title="🇧🇷 TV Aberta",BandSports HD
 https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/bandsports.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOAM HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globoam.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOCE HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globoce.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOES HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globoes.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOMG HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globomg.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBONEWS HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globonews.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBONOVELAS HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globonovelas.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOPB HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globopb.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOPE HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globope.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBORJ HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globorj.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBORS HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globors.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOSP HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globosp.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",RECORDMG HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordmg.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",RECORDRJ HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordrj.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",RECORDSP HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordsp.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",SBTRJ HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sbtrj.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",SBTSP HD
-https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sbtsp.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",BAND HD
-https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/band.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",BANDSPORTS HD
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",BandSports HD ALT
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/bandsports.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOMG HD
+
+# GLOBO MG
+#EXTINF:-1 tvg-id="globo.mg.br" tvg-name="Globo MG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TV_Globo_logo_2021.svg" group-title="🇧🇷 TV Aberta",Globo MG HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globomg.m3u8
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",Globo MG HD ALT
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/globomg.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBORJ HD
+
+# GLOBO RJ
+#EXTINF:-1 tvg-id="globo.rj.br" tvg-name="Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TV_Globo_logo_2021.svg" group-title="🇧🇷 TV Aberta",Globo RJ HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globorj.m3u8
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",Globo RJ HD ALT
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/globorj.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBORS HD
-https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/globors.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",GLOBOSP HD
+
+# GLOBO SP
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TV_Globo_logo_2021.svg" group-title="🇧🇷 TV Aberta",Globo SP HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globosp.m3u8
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",Globo SP HD ALT
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/globosp.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",RECORD HD
+
+# GLOBO NEWS
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/GloboNews_logo.png" group-title="🇧🇷 TV Aberta",GloboNews HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/globonews.m3u8
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",GloboNews HD ALT
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/globonews.m3u8
+
+# RECORD
+#EXTINF:-1 tvg-id="record.br" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RecordTV_logo_2016.png" group-title="🇧🇷 TV Aberta",Record HD
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/record.m3u8
-#EXTINF:-1 group-title="🇧🇷 TV Aberta",SBT HD
+
+# RECORD MG
+#EXTINF:-1 tvg-id="record.mg.br" tvg-name="Record MG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RecordTV_logo_2016.png" group-title="🇧🇷 TV Aberta",Record MG HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/recordmg.m3u8
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",Record MG HD ALT
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/recordmg.m3u8
+
+# SBT
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/SBT_logo_2013.svg" group-title="🇧🇷 TV Aberta",SBT HD
 https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/sbt.m3u8
+
+# SBT SP
+#EXTINF:-1 tvg-id="sbt.sp.br" tvg-name="SBT SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/SBT_logo_2013.svg" group-title="🇧🇷 TV Aberta",SBT SP HD
+https://xnn--d204s8hp27.cloudfronte.lat/zzzstream/sbtsp.m3u8
+#EXTINF:-1 group-title="🇧🇷 TV Aberta",SBT SP HD ALT
+https://npmuf25xa04so8hp26.cloudfronte.lat/zzzstream/sbtsp.m3u8
 
 ########## 🎬 FILMES ##########
 #EXTINF:-1 group-title="🎬 Filmes",CINEMAX HD
