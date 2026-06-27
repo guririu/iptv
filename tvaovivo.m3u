@@ -1,15 +1,7 @@
 #EXTM3U
 
-#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/e/index.php?canal=cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0
+#KODIPROP:http-referrer=https://12embeddecanais.xyz/
 
-#EXTINF:-1,Cinemax 1
-https://2606.cdn10embed.xyz/cinemax/index.m3u8
-
-#EXTM3U
-
-#KODIPROP:http-referrer=https://embedcanaisdetv.xyz/e/index.php?canal=cinemax
-#KODIPROP:http-user-agent=Mozilla/5.0
-
-#EXTINF:-1,Cinemax 2
+#EXTINF:-1 tvg-id="cinemax" group-title="Filmes",Cinemax
 https://2606.cdn10embed.xyz/cinemax/index.m3u8
