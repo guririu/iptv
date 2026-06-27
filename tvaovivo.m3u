@@ -1,5 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,Cinemax
+#EXTVLCOPT:http-referrer=https://embedcanaisdetv.xyz/e/index.php?canal=cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+
+#EXTINF:-1,Cinemax 1
+https://2606.cdn10embed.xyz/cinemax/index.m3u8
+
+#EXTM3U
+
+#KODIPROP:http-referrer=https://embedcanaisdetv.xyz/e/index.php?canal=cinemax
+#KODIPROP:http-user-agent=Mozilla/5.0
+
+#EXTINF:-1,Cinemax 2
 https://2606.cdn10embed.xyz/cinemax/index.m3u8
